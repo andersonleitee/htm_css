@@ -2,7 +2,7 @@
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" width="200">  
 
 # Portfólio
-Este projeto pessoal aborda técnicas de desenvolvimento para uma página web utilizando CSS e HTML com intuito único e exclusivo de aprendizagem.
+Este projeto pessoal aborda técnicas de desenvolvimento para uma página web utilizando CSS e HTML puro com intuito único e exclusivo de aprendizagem.
 
 # Página Web
 
